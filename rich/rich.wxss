@@ -1,0 +1,4 @@
+/* beauty_shop/pages/rich/rich.wxss */
+.jieshao{
+  padding: 10rpx 20rpx;
+}

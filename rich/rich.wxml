@@ -1,0 +1,5 @@
+<!--beauty_shop/pages/rich/rich.wxml-->
+    <import src="/wxParse/wxParse.wxml"></import>
+	<view class="jieshao">
+     <template is="wxParse" data="{{wxParseData:content2.nodes}}"></template>
+	</view>
